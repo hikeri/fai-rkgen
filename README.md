@@ -10,7 +10,7 @@ By using the product, you agree that you have already purchased a key from FairC
 
 #### Supported apps:
 - **FairMail**
-- **NetGuard**
+- **NetGuard (Android 8+ Only)**
 
 #### Usage Instructions:
 1. Enter the challenge value into the designated input field.
