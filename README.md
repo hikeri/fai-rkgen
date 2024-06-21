@@ -35,6 +35,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 #### Disclaimer:
 This tool is provided as-is, with no warranties or guarantees of any kind. Users are responsible for ensuring compliance with applicable laws and regulations.
 
-I do not plan to update this project in the future.
 For the FairCode team - if you want me to delete this repo, I don't mind. Write to me by email - hikeri@duck.com
 This project will not work on other domains, so deleting this repository is deleting the project as a whole.
