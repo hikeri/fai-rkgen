@@ -21,7 +21,7 @@ By using the product, you agree that you have already purchased a key from FairC
 
 #### Important Notes:
 - **Disclaimer**: Users must accept the disclaimer to access and use the tool.
-- **Support**: This tool is not open-source, but you have ability to make it open-source if you decrypt/deobfuscate this tool.
+- **Support**: This tool is not completly open-source, but you have ability to make it more open-source if you decrypt/deobfuscate js in index.html.
 
 #### Contributing:
 We do not plan to accept contributions or other types of assistance in creating this product. It is better to send your help to Fair Mail and NetGuard.
