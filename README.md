@@ -24,7 +24,7 @@ By using the product, you agree that you have already purchased a key from FairC
 - **Support**: This tool is not completly open-source, but you have ability to make it more open-source if you decrypt/deobfuscate js in index.html. But I strongly request you not to do this. At a minimum, this is pain for your brain that does not correspond to the effort. 
 
 #### Contributing:
-We do not plan to accept contributions or other types of assistance in creating this product. It is better to send your help to Fair Mail and NetGuard.
+I do not plan to accept contributions or other types of assistance in creating this product. It is better to send your help to Fair Mail and NetGuard.
 
 #### License:
 This project is licensed under the MIT License. See the LICENSE file for details.
